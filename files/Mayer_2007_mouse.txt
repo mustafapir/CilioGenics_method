@@ -1,0 +1,18 @@
+Gene Symbol and Synonyms	Gene Symbol	
+Gnal	GNAL	
+Lin7c	LIN7C	
+Gnb1	GNB1	
+Atp6v0d1	ATP6V0D1	
+Sec22b	SEC22B	
+Rer1	RER1	
+Tuba1b	TUBA1B	
+Tubb5	TUBB	
+Ywhaq	YWHAQ	
+Ywhaz	YWHAZ	
+Rps3	RPS3	
+Rpl13a	RPL13A	
+Rps6	RPS6	
+Rpl15	RPL15	
+Pcbp1	PCBP1	
+Hnrpk	HNRNPK	
+Flot2	FLOT2	

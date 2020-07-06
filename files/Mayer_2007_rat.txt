@@ -1,0 +1,378 @@
+Gene Symbol and Synonyms	Gene Symbol	
+Atp1a1	ATP1A1	
+Slc3a2	SLC3A2	
+Adcy3	ADCY3	
+Ab1-219		
+Ace	ACE	
+Lrp1	LRP1	
+Slc12a2	SLC12A2	
+Flot1	FLOT1	
+Ncam1	NCAM1	
+Nt5e	NT5E	
+Cd36	CD36	
+Enpp1	ENPP1	
+Cnga4	CNGA4	
+Plxnb2	PLXNB2	
+Itga2	ITGA2	
+Itgav_predicted		
+RGD1306792_predicted/ Atp13a5		
+Itfg3	FAM234A	
+RT1.A1(0)		
+Slco4c1	SLCO4C1	
+Stoml3_predicted		
+Tacstd1	EPCAM	
+Itgb1	ITGB1	
+Itga3_predicted		
+Enpep	ENPEP	
+Slco1a5/ oatp3		
+Aqp5	AQP5	
+Entpd1	ENTPD1	
+Ptprj/ CD148		
+Itgam	ITGAM	
+Gpm6a	GPM6A	
+Emb	EMB	
+Rtn4	RTN4	
+Prom1	PROM1	
+Mme	MMP12; MME	
+Mbc2	ESYT1	
+RGD1563977_predicted		
+RGD1564146_predicted		
+SLC5A8		
+Cnga2	CNGA2	
+Abca13_predicted		
+Mrc2	MRC2	
+Slc4a1	SLC4A1	
+RT1-Bb	HLA-DQB1; HLA-DQB2	
+Tfrc	TFRC	
+Dpp4	DPP4	
+Lrp2	LRP2	
+Igsf8	IGSF8	
+Clca2	CLCA2	
+Mrc1_predicted		
+Atp2b1	ATP2B1	
+Alcam	ALCAM	
+Atp1b3	ATP1B3	
+Tspan8	TSPAN8	
+Ckap4_predicted		
+Atp1b1	ATP1B1	
+Slc7a5	SLC7A5	
+Slc16a1	SLC16A1	
+Itga6	ITGA6	
+MRP1/ Abcc1		
+Srf_predicted		
+RGD1308874	APMAP	
+RT1.D(a)		
+Atp1a3	ATP1A3	
+Anxa6	ANXA6	
+Anxa1	ANXA1	
+Anxa3	ANXA3	
+Anxa4	ANXA4	
+Anxa2	ANXA2	
+Gnao	GNAO1	
+Anxa5	ANXA5	
+Gnb1	GNB1	
+Gnai2	GNAI2	
+Anxa7	ANXA7	
+Anxa11	ANXA11	
+Gnal	GNAL	
+Gnaq	GNAQ	
+Gnao1	GNAO1	
+lipocortin I/ Anxa1		
+Gnai3	GNAI3	
+Gna13	GNA13	
+Gnas	GNAS	
+Slc9a3r1	SLC9A3R1	
+Stom	STOM	
+Ahnak	AHNAK	
+Basp1	BASP1	
+Crry	CR1L	
+Anxa8	ANXA8L1; ANXA8	
+Lyn	LYN	
+Gnb2l1	RACK1	
+Dsp	DSP; DSPP	
+Gnb2	GNB2	
+Rp2h_predicted		
+Thy1	THY1	
+Gap43	GAP43	
+LOC691352		
+Rras_predicted		
+Ctnnd1_predicted		
+Atp6v0a4_predicted		
+Atp6v0a1	ATP6V0A1	
+LOC685232		
+Atp6v1b1_predicted		
+Atp6v1b2	ATP6V1B2	
+Atp6v1h	ATP6V1H	
+Atp6v1c1	ATP6V1C1	
+Atp6v1e1	ATP6V1E1	
+Atp6v1d	ATP6V1D	
+Rpn2	RPN2	
+Atp2a2	ATP2A2	
+Canx	CANX	
+Rpn1	RPN1	
+Ddost_predicted		
+Lman1	LMAN1	
+RGD1564216_predicted		
+Atp2a3	ATP2A3	
+Pigs	PIGS	
+Igf2r	IGF2R	
+Srprb	SRPRB	
+Golga5	GOLGA5	
+Stx3	STX3	
+Scamp1	SCAMP1	
+Bcap31	BCAP31	
+Cpd	CPD	
+Sacm1l	SACM1L	
+Napa	NAPA	
+Tmed9	TMED9	
+LOC287177/ Ergic1		
+Man2a1	MAN2A1	
+Sorl1_predicted		
+Stx4a	STX4	
+Galnt1	GALNT1	
+Rtp2_predicted		
+Lman2l_predicted		
+Snap23	SNAP23	
+Napg	NAPG	
+Vapa	VAPA	
+Tmed7	TMED7; TMED7-TICAM2	
+Tusc3	TUSC3	
+Gcs1	MOGS	
+LOC685504		
+Spcs2_predicted		
+Sypl	SYPL1	
+RGD1565906_predicted		
+Tmed2	TMED2	
+Rala	RALA	
+Rtp1_predicted		
+Cltc	CLTC	
+Spfh2_predicted		
+Vcp	VCP	
+Rab7	RAB7A	
+Cpne3_predicted		
+Vat1	VAT1	
+MGC105830/ Rab1b		
+Rab5c_predicted		
+Scfd1	SCFD1	
+Rab2	RAB2A	
+Ift80	IFT80	
+Rab18	RAB18	
+Rab5b_predicted		
+Rab6b_predicted		
+Golga2	GOLGA2	
+Rap1b	RAP1B	
+Rab21	RAB21	
+CDC42		
+Glg1	GLG1	
+Hspca	HSP90AA1	
+Hspcb	HSP90AB1	
+Tra1_predicted		
+Mgat4a	MGAT4A	
+Vps35	VPS35	
+Cyp2a3a	CYP2A6; CYP2A7; CYP2A13	
+Cyp2g1		
+Cyp2f2	CYP2F1	
+Por	POR	
+Ephx1	EPHX1	
+Ugt2a1	UGT2A1	
+RGD1559491_predicted		
+Cyp1a2	CYP1A2	
+Fmo1	FMO1	
+Aldh3a2	ALDH3A2	
+Fmo3	FMO3	
+Cyp4b1	CYP4B1	
+RGD1564244_predicted		
+Cyb5	CYB5A	
+Ggtl3	GGT7	
+Fmo5	FMO5	
+Cyb5r1/ Nqo3a2		
+Dhrs8	HSD17B11	
+Cyp4a8	CYP4A22	
+Dhrs9	DHRS9	
+Cyb5r3	CYB5R3	
+Pon1	PON1	
+Gstm2	GSTM1	
+Aldh3b1	ALDH3B1	
+Gstm1	GSTM5	
+Aox2		
+Gstm5	GSTM3	
+Pon3	PON3	
+Pon2	PON2	
+Aldh2	ALDH1A1; ALDH2	
+Sult1c1	SULT1C3; SULT1C2	
+Ces3	CES1	
+Ndufs3_predicted		
+Prdx6	PRDX6	
+Akr1a1	AKR1A1	
+Prdx2	PRDX2	
+Slc27a2	SLC27A2	
+Acsl1	ACSL1	
+Acsl6	ACSL6	
+Hsd17b9	HSD17B6	
+Abcd3	ABCD3	
+Abcd2	ABCD2	
+Asah1	ASAH1	
+Atp5a1	ATP5F1A	
+Atp5b	ATP5F1B	
+RGD1565889_predicted/ Slc25a13		
+Atp5f1	ATP5PB	
+LOC681418/ Ndufb10		
+Slc25a3	SLC25A3	
+Slc25a4	SLC25A4	
+Slc25a5	SLC25A5	
+Slc25a11	SLC25A11	
+Letm1	LETM1	
+Abcb6	ABCB6	
+Atp5h	ATP5PD	
+LOC691966		
+Myh9	MYH9	
+Myh14	MYH14	
+Tubb2c	TUBB4B	
+Gsn	GSN	
+Actg1	ACTG1	
+Myh11	MYH11	
+Tuba1	TUBA1A; TUBA1B	
+Vil2	EZR	
+Krt10	KRT10	
+Tuba6	TUBA1C	
+Kb1	KRT1	
+Ka17	KRT17	
+Krt2-5	KRT5	
+RGD1560646_predicted		
+Immt	IMMT	
+Kb18	KRT75	
+Catna1	CTNNA1	
+Dync1h1	DYNC1H1	
+Spnb2	SPTBN1	
+Flna_predicted		
+Actn4	ACTN4	
+Dnch2/ Dync2H1		
+Actn1	ACTN1	
+Iqgap1_predicted		
+Lcp1	LCP1	
+Kif5b	KIF5B	
+Vcl_predicted		
+Kb2	KRT80; KRT2	
+Kb36	KRT73	
+Ctnnb1	CTNNB1	
+Sept7	SEPTIN7	
+Jup	JUP	
+myr4/ Myo1d		
+Actr1a_predicted		
+Krt1-14	KRT14	
+Msn	MSN	
+Myo1c	MYO1C; MYO1D	
+Flnb_predicted		
+Vim	VIM	
+Sept2	SEPTIN2	
+Dpysl2	DPYSL2	
+Dync2li1	DYNC2LI1	
+Pde1c	PDE1C	
+Dcdc2_predicted		
+RGD1565368_predicted		
+Ywhae	YWHAE	
+Rpsa		
+TgaseII/ Tgm2		
+Ckb	CKB	
+RGD1305240_predicted		
+Ldhb	LDHB	
+Naca_predicted		
+Kpl2	SPEF2	
+Psmd2	PSMD2	
+Pygb	PYGB	
+Eprs	EPRS1	
+Tpi1	TPI1	
+Ugp2	UGP2	
+G6pdx	G6PD	
+Pabpc1	PABPC1	
+Psmc6	PSMC6	
+Serpinb1a	SERPINB1	
+Ubb	UBA52	
+Eif3s5_predicted		
+Pgk1	PGK1	
+Glul	GLUL	
+Lnpep	LNPEP	
+Scarb2	SCARB2	
+Golph4	GOLIM4	
+Wdfy1	WDFY1	
+Rpl4	RPL4	
+Arbp	RPLP0	
+Rpl7	RPL7	
+Rpl18	RPL18	
+Eef1a1	EEF1A1	
+Rpl6	RPL6	
+Rpl3	RPL3	
+Rps5	RPS5	
+RGD1562953_predicted		
+Rps3a	RPS3A	
+Rpl5	RPL5	
+Rpl10a	RPL10A	
+Eef2	EEF2	
+Rpl13	RPL13	
+RGD1566369_predicted		
+MGC72957		
+RGD1561333_predicted		
+Pbxip1	PBXIP1	
+Hnrpu	HNRNPU	
+Anp32b/ PHAPI2b		
+LOC679840		
+LOC680765		
+LOC687575		
+Slb	IFT172	
+Npm1	NPM1	
+Ncl	NCL	
+Alb	ALB	
+RGD1561983_predicted		
+Eno1	ENO1	
+Bpil3_predicted		
+LOC499924/ RYA3		
+Muc4	MUC4	
+Clic6	CLIC6	
+Cpm_predicted		
+Vdac1	VDAC1	
+Sgpl1	SGPL1	
+Phb2	PHB2	
+LOC688815/ Phb		
+Ncstn	NCSTN	
+Atp11a_predicted		
+Vdac2	VDAC2	
+Tmx2	TMX2	
+Retsat	RETSAT	
+Clic1	CLIC1	
+Cp	CP	
+Alpl	ALPL	
+Marcksl1	MARCKSL1	
+Stoml2	STOML2	
+Hspa5	HSPA5	
+Pik4ca	PI4KA	
+RGD1308226_predicted/ LRPB7		
+Clu	CLU	
+Serpinh1	SERPINH1	
+RGD1310427_predicted		
+LOC683001		
+Susd2_predicted		
+RGD1307736	MLEC	
+Mettl7a	METTL7A	
+Lrrc59	LRRC59	
+Tmem43	TMEM43	
+RGD1564436_predicted		
+RGD1309676	PRXL2A	
+RGD1310209_predicted		
+Impad1	BPNT2	
+RGD1565496_predicted; hspc121		
+Anpep	ANPEP	
+Sec14l3	SEC14L3	
+LOC688553	C7orf57	
+RGD1305976_predicted		
+LOC679610		
+RGD1311267	SPEF1	
+RGD1309108_predicted		
+RGD1310430_predicted		
+LOC500086/ Ttc26		
+Kctd12_predicted		
+LOC681820		
+Ttc7	TTC7A	
+Selenbp1	SELENBP1	
+Wdr35_predicted		
+Acbd3	ACBD3	
+RGD1309308_predicted		

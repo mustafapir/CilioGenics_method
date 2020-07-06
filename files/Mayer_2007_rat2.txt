@@ -1,0 +1,39 @@
+Gene Symbol and Synonyms	Gene Symbol	
+CNG4.3/ Cngb1		
+CD36/FAT		
+Atp1b1	ATP1B1	
+Flot2	FLOT2	
+CHIP28/ Aqp1		
+Anxa5	ANXA5	
+DAF		
+Ahnak	AHNAK	
+Stx7	STX7	
+tmp21-I		
+rab11-p24-B		
+Rab14	RAB14	
+Ggtl3	GGT7	
+Cyp3a9	CYP3A7; CYP3A5; CYP3A4; CYP3A7-CYP3A51P	
+Ggt1	GGT1; GGTLC2; GGT2; GGTLC1; GGTLC3	
+Pon1	PON1	
+Uqcrc2	UQCRC2	
+COII	COX2	
+NA		
+Krt5	KRT5	
+Krt2-8	KRT8	
+Vil2	EZR	
+rhoA		
+Pdia3	PDIA3	
+PK	PKM; KLKB1; MAP3K12	
+PCD-E2		
+Lplunc4	BPIFB4	
+CaBP1	PDIA6	
+Gapdh	GAPDH	
+Tkt	TKT	
+LGP 107/ Lamp1		
+Rpl9	RPL9	
+Pgrmc1	PGRMC1	
+RVDAC1/ VDAC1		
+RVDAC3/ VDAC3		
+Marcks	MARCKS	
+Mvp	MVP	
+pre-mtHSP70		
